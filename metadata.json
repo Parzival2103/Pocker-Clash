@@ -1,0 +1,8 @@
+{
+  "name": "Poker Clash",
+  "description": "Companion app para el juego físico Poker Clash",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
